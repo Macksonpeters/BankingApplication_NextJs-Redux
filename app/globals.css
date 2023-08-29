@@ -2,12 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-@import url("https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap");
-
-.fontShadowInto {
-  font-family: "Shadows Into Light", cursive;
-}
-
 #landingBg {
   background-image: url(../Images/landing_Bg.jpg);
   background-repeat: no-repeat;

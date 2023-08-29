@@ -44,7 +44,7 @@ const BankAccountCreation = () => {
 
             {/* Logo */}
             <h1 className="text-center text-[#541f56] font-bold fontShadowInto md:text-lg xl:text-xl">
-              Lu
+              Ou
               <span className="text-[#c65f2b] text-lg md:text-xl xl:text-2xl">
                 X
               </span>

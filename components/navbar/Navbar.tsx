@@ -22,7 +22,7 @@ const Navbar = () => {
           <div className="px-1 lg:px-0">
             <Link href="/application">
               <h1 className="text-center mt-2 text-[#c65f2b] text-lg  font-bold fontShadowInto md:text-lg lg:text-xl xl:text-2xl xl:mt-0">
-                Lu
+                Ou
                 <span
                   className={`text-[#541f56] text-xl md:text-xl xl:text-3xl ${
                     navOpen && "text-white xl:text-[#541f56]"

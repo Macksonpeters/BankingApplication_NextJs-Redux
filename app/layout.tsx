@@ -2,6 +2,7 @@
 
 import { Provider } from "react-redux";
 import "./globals.css";
+import "./app.css";
 import { Inter } from "next/font/google";
 import { store, persistor } from ".././redux/store";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";

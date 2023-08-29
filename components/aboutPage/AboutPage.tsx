@@ -9,16 +9,16 @@ const AboutPage = () => {
         <div className="lg:w-2/4 mb-6 md:mb-0">
           <Image
             src={AboutImage}
-            alt="LuXPay Logo"
+            alt="OuXPay Logo"
             className="max-w-full h-[50vh] rounded-xl"
           />
         </div>
         <div className="lg:w-2/4 lg:me-10 xl:me-5 2xl:me-6 lg:mt-10">
-          <h1 className="text-xl font-bold mb-4 fontShadowInto lg:text-3xl">
-            Welcome to LuXPay
+          <h1 className="text-xl font-bold mb-4 fontShadowInto tracking-widest lg:text-3xl">
+            Welcome to OuXPay
           </h1>
           <p className="text-base lg:text-lg  mb-6">
-            At LuXPay, we're dedicated to transforming the banking landscape
+            At OuXPay, we're dedicated to transforming the banking landscape
             with lightning bolt transactions that redefine speed and
             convenience. Our platform offers instant and secure transfers,
             making your financial experience truly seamless.
@@ -26,23 +26,23 @@ const AboutPage = () => {
           <p className="text-base lg:text-lg mb-6">
             Our cutting-edge technology ensures that your transactions are
             processed at unprecedented speeds. Whether you're sending money to a
-            friend or managing your business finances, LuXPay empowers you to
+            friend or managing your business finances, OuXPay empowers you to
             take control of your transactions without delays.
           </p>
           <p className="text-base lg:text-lg mb-6">
             Your security is paramount. With state-of-the-art encryption and
-            robust security protocols, LuXPay prioritizes the protection of your
+            robust security protocols, OuXPay prioritizes the protection of your
             financial data. Rest easy knowing that your transactions are
             shielded from any potential threats.
           </p>
-          <h2 className="text-xl font-bold mb-2 fontShadowInto lg:text-2xl">
+          <h2 className="text-xl font-bold mb-2 tracking-widest fontShadowInto lg:text-2xl">
             Get Started
           </h2>
           <p className="text-base lg:text-lg">
             Join us today and experience the future of banking. Make
             lightning-fast transactions, enjoy enhanced security, and embrace a
             new era of financial empowerment. It's time to bank at the speed of
-            light with LuXPay.
+            light with OuXPay.
           </p>
 
           <button className="mt-5" type="button">

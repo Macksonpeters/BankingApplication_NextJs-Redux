@@ -32,9 +32,9 @@ const LandingPage = () => {
         className=" h-[100vh] bg-cover shadow-xl shadow-red-300 flex justify-start px-7 mx-auto items-center lg:justify-start lg:px-16"
       >
         <div className="text-center">
-          <p className="text-lg capitalize  md:text-xl lg:text-3xl text-[#D8453D] fontShadowInto  text-start">
-            <span className="font-bold">Hi There!</span>
-            <span className="block Vsmall:text-base xl:mt-2">
+          <p className="text-lg capitalize  md:text-xl lg:text-3xl text-[#D8453D] fontShadowInto text-start">
+            <span className="font-bold tracking-widest">Hi There!</span>
+            <span className="block tracking-wide Vsmall:text-base xl:mt-2">
               Kindly Provide Your Name to Begin Your Journey
             </span>
           </p>

@@ -54,7 +54,7 @@ const TransferConfirmation = () => {
   const dispatch = useDispatch();
 
   const createOtp = () => {
-    const otp = Math.floor(Math.random() * 10000);
+    const otp = Math.floor(1000 + Math.random() * 9999);
     console.log(otp);
     setOtp(otp);
     setClickedConfirm(!clickedConfirm);
