@@ -31,7 +31,7 @@ const SendMoneyy = () => {
   );
   const dispatch = useDispatch();
 
-  (BankList);
+  BankList;
 
   return (
     <div className="h-screen w-screen fixed top-0 flex justify-center items-start pt-10 bg-gray-900 bg-opacity-60 z-50 ">
@@ -79,7 +79,7 @@ const SendMoneyy = () => {
 
           {/* Logo */}
           <h1 className="text-center text-[#541f56] font-bold fontShadowInto md:text-lg xl:text-xl">
-            Lu
+            Ou
             <span className="text-[#c65f2b] text-lg md:text-xl xl:text-2xl">
               X
             </span>
